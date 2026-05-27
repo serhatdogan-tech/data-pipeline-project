@@ -1,0 +1,17 @@
+# Virtuell miljö
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Känslig information
+.env
+
+# Data-filer (rådata ska inte pushas)
+data/raw/
+
+# OS-filer
+.DS_Store
+Thumbs.db
